@@ -6,5 +6,8 @@
 </head>
 <body>
  <p>This is standard HTML </p> 
+ <? php
+ 
+ ?>
 </body>
 </html>
